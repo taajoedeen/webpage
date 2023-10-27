@@ -1,0 +1,21 @@
+.landing-page {
+  background-color: #fff;
+  padding: 40px;
+  margin: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  font-size: 28px;
+  font-weight: bold;
+  margin: 0;
+}
+
+p {
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 1.6;
+}
+
+/* Add more LandingPage styles as needed */

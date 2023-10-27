@@ -1,0 +1,31 @@
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo img {
+  max-width: 50px;
+  margin-right: 10px;
+}
+
+h1 {
+  font-size: 24px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.welcome {
+  margin-right: 20px;
+}
+
+/* Style for the welcome message and sign-in prompt */
+.welcome p {
+  font-size: 16px;
+  font-weight: 400;
+}
+
+/* Add more Header styles as needed */
